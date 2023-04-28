@@ -1,4 +1,4 @@
-### TERRAFORM TUTORIOL
+### TERRAFORM TUTORIAL
 
 ```
 terraform init
